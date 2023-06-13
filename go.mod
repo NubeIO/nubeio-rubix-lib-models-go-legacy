@@ -1,4 +1,4 @@
-module github.com/NubeIO/nubeio-rubix-lib-models-go
+module github.com/NubeIO/nubeio-rubix-lib-models-go-legacy
 
 go 1.18
 
